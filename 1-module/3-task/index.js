@@ -6,4 +6,3 @@ function ucFirst(str) {
 
   return `${firstLetterUpperCase}${otherLetters}`;
 }
-// украл
